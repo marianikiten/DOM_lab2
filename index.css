@@ -1,0 +1,30 @@
+body {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    max-width: 980px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.page-title {
+    font-size: 3rem;
+    font-weight: 900;
+}
+.page-image {
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+.page-text {
+    font-size: 1rem;
+    line-height: 16px;
+    text-align: center;
+}
+
